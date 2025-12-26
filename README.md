@@ -1,7 +1,9 @@
-🌸 Linear-Regression-Based-Iris-Flower-Prediction-ML
+🌸  Linear Regression Model with Correlation Analysis
+
 This project focuses on predicting iris flower characteristics using Linear Regression, a supervised machine learning algorithm used for regression problems. The model analyzes flower measurements such as sepal length, sepal width, petal length, and petal width to understand relationships between features and target variables.
 
 🧠 Project Overview
+
 The notebook includes:
 
 Data loading and preprocessing
